@@ -1,0 +1,11 @@
+
+Nombre: Sergio Madaleno Figueroa
+Versión utilizada: 2019.4.30f1
+
+Apartados que creo que he cumplido:
+
+- Posibles acciones: El juegador puede saltar, recoger objetos y disparar
+- He utilizado un Raycast para la detección del salto 
+- Enemigos que también pueden disparar y dañar al jugador (disparan en la dirección del jugador) y se actualiza el HUD de la vida.
+- Un menu principal en el que se puede acceder cuando el usuario quiera
+- Loop de juego. Cuando se llega a la meta final, el menu de inicio se muestra para empezar una nueva partida.
